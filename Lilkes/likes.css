@@ -1,0 +1,19 @@
+#container {
+    width: 350px;
+    height: fit-content;
+    border-style: solid;
+    padding: 25px 25px;
+}
+#topcnt{
+    display: flex;
+    justify-content: space-between;
+}
+.topcnt{
+    margin: 0%;
+}
+.like{
+    width: 80px;
+    height: 35px;
+    background-color: yellow;
+    box-shadow: 4px 4px black;
+}
